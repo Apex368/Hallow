@@ -1,0 +1,15 @@
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\bin\Debug\App window.exe.config
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\bin\Debug\App window.exe
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\bin\Debug\App window.pdb
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\MainWindow.g.cs
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App.g.cs
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window_MarkupCompile.cache
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window_MarkupCompile.lref
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\MainWindow.baml
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window.g.resources
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App_window.Properties.Resources.resources
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window.csproj.GenerateResource.Cache
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window.exe
+c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window.pdb
+C:\Users\Spencer Garner\Documents\Visual Studio 2015\Projects\App window\App window\obj\Debug\ResultsWindow.g.cs
+C:\Users\Spencer Garner\Documents\Visual Studio 2015\Projects\App window\App window\obj\Debug\ResultsWindow.baml

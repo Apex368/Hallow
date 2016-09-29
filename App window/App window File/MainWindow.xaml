@@ -1,0 +1,17 @@
+﻿<Window x:Class="App_window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:App_window"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="998.185" Width="1246.019">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource ="Pictures/HalloweenWelcome.jpg"></ImageBrush>
+        </Grid.Background>
+        <Button x:Name="button" Content="Randomize" HorizontalAlignment="Left" Height="203" Margin="684,592,0,0" VerticalAlignment="Top" Width="220"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="252" Margin="788,152,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="427"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="306" Margin="60,130,0,0" VerticalAlignment="Top" Width="596"/>
+    </Grid>
+</Window>
