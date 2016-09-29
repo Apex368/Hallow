@@ -8,7 +8,7 @@ namespace pumpkin
 {
     class Class1
     {
-        string[] cravings = new string[10];
+        //Urls
         string cat = "";
         string wolf = "";
         string snake = "";
@@ -23,6 +23,10 @@ namespace pumpkin
         string[] names = new string[10] {"Cat","Wolf","Snake","Witch","Ghost",
             "Skeleton","Grim Reaper","Scary Clown","Scarecrow","WereWolf"};
 
+        private void button_Clicked()
+        {
+
+        }
         
     }
 }
