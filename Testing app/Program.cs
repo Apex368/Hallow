@@ -12,6 +12,8 @@ namespace Testing_app
         {
             Console.WriteLine("NOIUBNONB");
             Console.ReadKey();
+
+            Console.WriteLine("bdkbkfsa");
         }
     }
 }
