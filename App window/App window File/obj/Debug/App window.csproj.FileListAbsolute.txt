@@ -13,3 +13,6 @@ c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App win
 c:\users\spencer garner\documents\visual studio 2015\Projects\App window\App window\obj\Debug\App window.pdb
 C:\Users\Spencer Garner\Documents\Visual Studio 2015\Projects\App window\App window\obj\Debug\ResultsWindow.g.cs
 C:\Users\Spencer Garner\Documents\Visual Studio 2015\Projects\App window\App window\obj\Debug\ResultsWindow.baml
+C:\Users\Aquaman22j\Documents\Visual Studio 2015\Projects\pumpkin\App window\App window File\bin\Debug\App window.exe.config
+C:\Users\Aquaman22j\Documents\Visual Studio 2015\Projects\pumpkin\App window\App window File\obj\Debug\App window.exe
+C:\Users\Aquaman22j\Documents\Visual Studio 2015\Projects\pumpkin\App window\App window File\obj\Debug\App window.pdb
